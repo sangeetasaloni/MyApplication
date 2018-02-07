@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Namaste</string>
+     <string name="ButtonText">I\’m a button</string>
+    <string name="welcome">
+               भारत के राष्ट्रीय पुस्तकालय में आपका स्वागत है
+</string>
+    <string name="Email">
+                         ईमेल
+                     </string>
+    <string name="password">पारण शब्द</string>
+    <string name="buttonlogin">लॉग इन करें</string>
+    <string name="buttonregister">रजिस्टर</string>
+</resources>
